@@ -1,0 +1,15 @@
+.idea
+.vscode
+upload
+*.exe
+*.db
+build
+*.db-journal
+logs
+web/dist
+.env
+veloera
+one-api
+.DS_Store
+tiktoken_cache
+.aider*
